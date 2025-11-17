@@ -15,6 +15,7 @@
 ### 1. Клонируем репозиторий
 
 git clone https://github.com/hudsoonme/base-gas-checker.git
+
 cd base-gas-checker
 
 ### 2. Устанавливаем зависимостиbash
