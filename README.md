@@ -116,7 +116,7 @@ sudo systemctl enable --now basegas.service
 
 ## Готово!
 
-Теперь ты всегда будешь знать, когда газ в Base становится дешёвым!
+Теперь ты всегда будешь знать, когда газ в Base становится дешёвым.
 
 Автор: **[@margo_hud](https://x.com/margo_hud)**
 
